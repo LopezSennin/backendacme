@@ -1,0 +1,23 @@
+
+>
+acme/manage.py,d\1\d1c52983d710cdd19cc6c2c4ff643f41d7f8913f
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+S
+#acme/backend/migrations/__init__.py,f\e\fed6ae14e6c42ce5d00628270bf2e675740ad90a
+A
+acme/acme/wsgi.py,2\4\243561e2734afe5d81b40d4c3bf9280b65347e50
+E
+acme/acme/__init__.py,f\6\f69de3374d09cbf148dd88f9503f6e975c06ef5e
+A
+acme/acme/asgi.py,a\0\a0d06030e77cbcec97ef38e5e2a0ed8ce8d9ee26
+A
+acme/acme/urls.py,8\0\80abc81c82bf5248824a76e1cfc08dec0996ba3b
+E
+acme/acme/settings.py,9\a\9aa63e381e44849de4503ed288f8df4443c57ead
+E
+acme/backend/views.py,b\6\b60854b4700fc9f1e60a25883b303c49151429fc
+K
+acme/backend/serializers.py,f\9\f94addb8d53d13119b7d36d7a6c015e232d1afce
+F
+acme/backend/models.py,7\c\7cb626779ebedb8116600171f4616187d9d8bbf0
